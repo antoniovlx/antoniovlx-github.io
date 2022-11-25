@@ -1,0 +1,8 @@
+{
+  "label": "YUM",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "YUM is the primary package management tool for installing, updating, removing, and managing software packages in Red Hat Enterprise Linux. YUM performs dependency resolution when installing, updating, and removing software packages."
+  }
+}
