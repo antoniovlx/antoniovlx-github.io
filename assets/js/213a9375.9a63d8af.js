@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[7587],{2592:e=>{e.exports=JSON.parse('{"title":"Github","description":"Oracle Cloud Infrastructure (OCI)","slug":"/category/github","permalink":"/category/github","navigation":{"next":{"title":"How to redirect on Github Pages","permalink":"/github/install-wordpress-amazon-linux"}}}')}}]);
